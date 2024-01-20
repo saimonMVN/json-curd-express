@@ -1,0 +1,20 @@
+[
+  {
+    "name": "product1",
+    "title": "Product 1",
+    "price": 19.99,
+    "actual_price": 15.99
+  },
+  {
+    "name": "product12",
+    "title": "Product 1",
+    "price": 19.99,
+    "actual_price": 15.99
+  },
+  {
+    "name": "product13",
+    "title": "Product 1",
+    "price": 19.99,
+    "actual_price": 15.99
+  }
+]
